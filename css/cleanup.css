@@ -1,1 +1,35 @@
 /* write your override styles here */
+/*SOLVED tag-1*/
+#wall .tag-1 {
+  display: none;
+}
+
+/*SOLVED tag-2*/
+body #wall #tag-2 {
+  display: none;
+}
+
+/*SOLVED tag-4*/
+#wall .parent #tag-4 {
+  display: none;
+}
+
+/*FIX tag-3*/
+body #wall #tag-3 .slick-wicked {
+  display: none;
+}
+
+/*FIX tag-5*/
+body #wall .parent #tag-5 .slick {
+  display_none;
+}
+
+/*FIX tag-6*/
+body #wall .parent div#tag-6 {
+  display: none;
+}
+
+/*FIX tag-7*/
+body #wall .parent #tag-7 .slick {
+   display: none;
+}
