@@ -22,7 +22,7 @@ body #wall #tag-3 .slick-wicked {
 
 /*FIX tag-5 0221*/
 body #wall .parent #tag-5 .slick {
-  display_none;
+  display: none;
 }
 
 /*FIX tag-6*/
