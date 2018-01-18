@@ -31,6 +31,6 @@ body #wall .tag6 #tag-6 {
 }
 
 /*FIX tag-7*/
-body #wall .parent #tag-7 .slick {
+body #wall .tag7 #tag-7 .slick {
    display: none;
 }
