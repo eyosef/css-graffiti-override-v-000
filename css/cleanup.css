@@ -1,36 +1,27 @@
 /* write your override styles here */
-/*SOLVED tag-1 0110*/
 #wall .tag-1 {
   display: none;
 }
-
-/*SOLVED tag-2 0201*/
 body #wall #tag-2 {
   display: none;
 }
 
-/*SOLVED tag-3* 0221/
 body #wall #tag-3 .slick-wicked {
   display: none;
 }
 
-/*SOLVED tag-4 0210*/
 #wall .parent #tag-4 {
   display: none;
 }
 
-
-/*FIX tag-5 0221*/
 #wall .tag5 #tag-5 .slick {
   display: none;
 }
 
-/*FIX tag-6*/
 body #wall .tag6 #tag-6 {
   display: none;
 }
 
-/*FIX tag-7*/
 body #wall .tag7 #tag-7 .slick {
    display: none;
 }
