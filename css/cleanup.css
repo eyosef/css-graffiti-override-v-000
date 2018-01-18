@@ -26,7 +26,7 @@ body #wall #tag-3 .slick-wicked {
 }
 
 /*FIX tag-6*/
-body #wall .parent #tag-6 {
+body #wall .tag6 #tag-6 {
   display: none;
 }
 
