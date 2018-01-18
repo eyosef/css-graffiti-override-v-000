@@ -1,10 +1,10 @@
 /* write your override styles here */
-/*SOLVED tag-1*/
+/*SOLVED tag-1 0110*/
 #wall .tag-1 {
   display: none;
 }
 
-/*SOLVED tag-2*/
+/*SOLVED tag-2 0201*/
 body #wall #tag-2 {
   display: none;
 }
