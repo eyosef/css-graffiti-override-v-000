@@ -15,7 +15,7 @@ body #wall #tag-2 {
 }
 
 /*FIX tag-3*/
-body #wall #tag-3 .slick-wicked {
+head body #wall #tag-3 .slick-wicked {
   display: none;
 }
 
