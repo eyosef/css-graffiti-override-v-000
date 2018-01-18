@@ -26,7 +26,7 @@ body #wall .parent #tag-5 .slick {
 }
 
 /*FIX tag-6*/
-body #wall .parent div#tag-6 {
+body #wall .parent #tag-6 {
   display: none;
 }
 
